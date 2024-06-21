@@ -18,17 +18,17 @@ This To-Do List application is a simple and user-friendly tool built using Pytho
 ## Installation ##
 1. Clone the repository:
 
-       git clone https://github.com/yourusername/todo-list-tkinter.git
+       git clone https://github.com/Harsh-Atkare/CODSOFT
 
 2. Navigate to the project directory:
 
-        cd todo-list-tkinter
+        cd CODSOFT/Python/ToDoList
 
 ## Usage ##
 
 1. Run the application:
 
-        python todo_gui.py
+        python ToDoList.py
 
 2. A GUI window will appear where you can:
 
