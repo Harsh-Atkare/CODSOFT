@@ -35,8 +35,11 @@ This is a simple GUI-based calculator application built using Python's tkinter l
 1. Run the application:
 
        python calculator.py
+   
+![image](https://github.com/Harsh-Atkare/CODSOFT/assets/78349104/6074c33a-f2b7-4aa5-b3b7-6e8dc8518e38)
 
-2. Using the calculator:
+
+3. Using the calculator:
 - Enter the first number in the "Number 1" field.
 - Enter the second number in the "Number 2" field.
 - Click on the desired operation button (+, -, *, /).
