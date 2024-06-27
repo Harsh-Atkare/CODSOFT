@@ -12,7 +12,7 @@ This is a simple GUI-based calculator application built using Python's tkinter l
 
 1. Clone the repository:
 
-        https://github.com/Harsh-Atkare/CODSOFT
+        git clone https://github.com/Harsh-Atkare/CODSOFT
 
         cd CODSOFT/Python/calculator
 
